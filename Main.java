@@ -4,7 +4,6 @@ import java.util.Scanner;
 import product.ProductController;
 import product.ProductModel;
 
-
 public class Main {
     public static void main(String[] args) {
         ProductController controller = new ProductController();
@@ -79,6 +78,4 @@ public class Main {
             }
         }
     }
-
-    // métodos auxiliares para teste (caso precise).
 }
